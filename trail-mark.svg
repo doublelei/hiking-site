@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Hiking">
+  <rect width="512" height="512" rx="112" fill="#244c36"/>
+  <path d="M54 386 190 142l70 124 46-78 152 198H54Z" fill="#f5f1e8"/>
+  <path d="m162 294 28-52 30 53 39-29 47 52 29-39 82 107H105l57-92Z" fill="#8eb294"/>
+  <circle cx="373" cy="125" r="38" fill="#e9b949"/>
+</svg>

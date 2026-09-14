@@ -1,0 +1,1 @@
+{"name":"Hiking Trip Companion","short_name":"Hiking","description":"Offline-ready hiking plan and trip companion","start_url":".","display":"standalone","background_color":"#f5f1e8","theme_color":"#244c36","lang":"en","scope":"/hiking-site/","icons":[{"src":"trail-mark.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
